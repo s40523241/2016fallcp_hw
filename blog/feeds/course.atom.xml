@@ -34,7 +34,7 @@ while ans != a_in:
     guess += 1
 
 alert("終於答對了 ,您猜了" + (str(guess)) + "次")
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>W13</title><link href="./w13.html" rel="alternate"></link><published>2016-12-12T14:35:00+08:00</published><updated>2016-12-12T14:35:00+08:00</updated><author><name>40523232</name></author><id>tag:,2016-12-12:./w13.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>W13</title><link href="./w13.html" rel="alternate"></link><published>2016-12-12T14:35:00+08:00</published><updated>2016-12-12T14:35:00+08:00</updated><author><name>40523241</name></author><id>tag:,2016-12-12:./w13.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 
 
 &lt;p&gt;繪圖流程, 導入程式庫, 啟動, 然後引用各種模組開始繪圖&lt;/p&gt;
